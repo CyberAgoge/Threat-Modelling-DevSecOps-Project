@@ -6,12 +6,11 @@ Threat modelling diagrams/models should also reside within the repos of the proj
 
 To access the code for this repo please visit the following website for the full video and code to create your first threat modelling project: (https://cyberagoge.thinkific.com/courses/take/devsecops-bootcamp/texts/55130887-part-1-introduction-to-the-course) Sigg up and click free preview and visit project 4 for the code and video. 
 
+Customise all of the below to a chosen application - this can be make believe or a running application you have created for your project as created during the bootcamp or a live, real application for your organisation. If the application is live and real I recommned you keep the repo private.
 
 # Threat Modelling Workshop Summary
 
 ## Introduction
-*customise the below*
-
 A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360.
 
 ## Attendess
