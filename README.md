@@ -1,14 +1,14 @@
-This project is a Threat Modelling template. I have worked across a plethora of different industries in cyber security for over ten years and I have yet to find a suitable method to run threat modelling. I have therefore created this template for you to use either in your future DevSecOps role or for you to create a project to help you show on your CV/in interviews when asked about threat modelling. 
+This project is a new and revolutionary approach to Threat Modelling as a template that you can use. I have worked across a plethora of different industries in cyber security for over ten years and I have yet to find a suitable method to run threat modelling. I have therefore created this template for you to use either in your future DevSecOps role or for you to create a project to help you show on your CV/in interviews when asked about threat modelling. 
 
 Threat modelling diagrams/models should also reside within the repos of the projects. This approach ensures teams underestand the threats to the applications and continue to own it.
 
-To access the code for this repo please visit, for the full video and code to create your first threat modelling project. (https://cyberagoge.thinkific.com/courses/take/devsecops-bootcamp/texts/55130887-part-1-introduction-to-the-course)
+To access the code for this repo please visit the following website for the full video and code to create your first threat modelling project: (https://cyberagoge.thinkific.com/courses/take/devsecops-bootcamp/texts/55130887-part-1-introduction-to-the-course) Click free preview and visit project 4 for the code and video. 
 
 
 # Threat Modelling Workshop Summary
 
 ## Introduction
-A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360..
+A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360.
 
 ## Attendess
 Care Connect Eng team, Product Managers, DevEx Engineers and the DevSecOps Team.
@@ -17,7 +17,7 @@ Care Connect Eng team, Product Managers, DevEx Engineers and the DevSecOps Team.
 4 Scenarios were run covering: (1) AI Generated External phishing email utilising admin credentials, (2) Attack against Machine Processes and the data lake, (3) SQL Injection attack and (4) Insider attack taking Quant algorithms.
 
 ## Methodology
-All scenarios were run against the cyber attack killchain, utilising the Mitre Att&ack methods and STRIDE for control gap assessments. Culminating in identified risks. 
+All scenarios were run against the cyber attack killchain, utilising the Mitre Att&ack framework and STRIDE for control gap assessments. Culminating in identified risks. 
 
 ## Conclusion
 A total of 4 high risks and 3 medium risks were found during the threat modelling workshop.
