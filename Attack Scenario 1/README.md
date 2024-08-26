@@ -1,4 +1,4 @@
-# Attack 1 Summary: Kill Chain Attack Description - Solaris Health 360 Attack Scenario
+# Attack 1 Summary: AI Generated External phishing email utilising admin credentials
 
 ## Stages of the Attack
 
