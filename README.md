@@ -1,4 +1,4 @@
-This project is a Threat Modelling template.
+This project is a Threat Modelling template. I have worked across industries in cyber security for over ten years and I have yet to find a suitable method to run threat modelling. I have therefore created this template for you to use either in your future DevSecOps role or to create a project to help you show on your CV/in interviews.
 
 
 # Threat Modelling Workshop Summary
