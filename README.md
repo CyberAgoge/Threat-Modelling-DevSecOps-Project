@@ -38,19 +38,19 @@ A total of 4 high risks and 3 medium risks were found during the threat modellin
 
 ```mermaid
 mindmap
-  root((attack))
-    STRIDE/MITRE/Kill Chain
-      Inherent Risk Assesment
+  root((Attack Begins))
+    STRIDE/MITRE ATT&CK/Kill Chain
+      Conduct Inherent Risk Assesment
       ::icon(fa fa-book)
-      Critical Asset List
-        Schedule and Scope Workshop
+      Create Critical Asset List
+        Schedule and Scope Threat Modelling Workshop
     Controls Required
       Risks<br/>Mitigations
       Risk Summary
         Redmeiation workflow
             Slack
             JIRA 
-    Scenarios
+    Attack Scenarios
       Attack 1
       Attack 2
       Attack 3
