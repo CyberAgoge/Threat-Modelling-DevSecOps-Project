@@ -10,6 +10,7 @@ To access the code for this repo please visit the following website for the full
 # Threat Modelling Workshop Summary
 
 ## Introduction
+*customise the below*
 A 3 Hour threat modelling workshop took place to detail the runbook scenario of multiple AI attacks against the web-facing health care application Solaris Care Connect 360.
 
 ## Attendess
