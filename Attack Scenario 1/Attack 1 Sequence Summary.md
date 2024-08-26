@@ -2,13 +2,12 @@
 
 # Attack Description
 
-## Stages of the Attack
+The attacker is an APT who has conducted avdanced research on Solaris. The attacker initiates the attack by identifying key personnel who likely had admin credentials to production environments. This way the attacker does not need to bypass a WAF or any other security controls but will instead had direct access to the environements as if an admin.
 
-### Origins
-The attack is initiated by an attacker leveraging a long history of cyber attack techniques. The attacker initiates the attack by identifying potential vulnerabilities in the target system.
+# Methodology
+The attack sequence below utilises the MITRE ATT&CK framework along with the commonly used techniques. 
 
-### Reconnaissance
-The attacker conducts research to identify vulnerabilities and potential targets. This includes gathering information about the target system's infrastructure, software, and potential weaknesses.
+
 
 
 
@@ -22,9 +21,8 @@ flowchart TD
     style Command_Control fill:#CA6F1E,stroke:#000,stroke-width:2px
     style Actions_Objectives fill:#BA4A00,stroke:#000,stroke-width:2px
     style MITRE fill:#85C1E9,stroke:#000,stroke-width:2px
-    style Controls fill:#82E0AA,stroke:#000,stroke-width:2px
 
-    Reconnaissance[Reconnaissance] -->|Identify Solari Health 360 app| Weaponization[Weaponization]
+    Reconnaissance[Reconnaissance] -->|Attacker searches Linkedin for admin users of Solaris with credentials to AWS| Weaponization[Weaponization]
     Weaponization[Weaponization] -->|Craft exploit for known vulnerabilities| Delivery[Delivery]
     Delivery[Delivery] -->|Deploy phishing campaign targeting app users| Exploitation[Exploitation]
     Exploitation[Exploitation] -->|Trick users into downloading malware| Installation[Installation]

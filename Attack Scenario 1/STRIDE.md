@@ -1,3 +1,5 @@
+This is a generic example of how you can use STRIDE to demonstrate the current controls in place for the application and is not specific to scenario 1.
+
 ```mermaid      
 graph TD
     subgraph User Interaction
